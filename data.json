@@ -1,0 +1,316 @@
+{
+
+    "Categories": {
+        "Allergie": [{
+                "Name": "Bepanthen",
+                "Description": "Ointment to support wound healing For superficial skin damage to the eyes and nose For infants, children and adults",
+                "Price": "1,27 €",
+                "Picture": "images/Bepanthen.jpg"
+            },
+            {
+                "Name": "Fenistil",
+                "Description": "Cools and soothes insect bites and sunburn Has an anti-allergic, local anesthetic and relieves itching Suitable for use on the skin",
+                "Price": "4,15 €",
+                "Picture": "images/Fenistil-s.png"
+            },
+            {
+                "Name": "Cetirizin",
+                "Description": "Fight symptoms of allergies Relieve discomfort in the nose and eyes Suitable for children from 6 years",
+                "Price": "5,34 €",
+                "Picture": "images/Cetirizin-s.png"
+            },
+            {
+                "Name": "Reactine",
+                "Description": "For the treatment of allergic rhinitis For nasal congestion and acute hay fever Against itchy, watery and swollen eyes",
+                "Price": "3,27 €",
+                "Picture": "images/Reactine-s.png"
+            },
+            {
+                "Name": "Euphrasia",
+                "Description": "For the treatment of allergic rhinitis For nasal congestion and acute hay fever Against itchy, watery and swollen eyes",
+                "Price": "3,27 €",
+                "Picture": "images/Euphrasia-s.png"
+            }
+
+        ],
+
+        "MuscleAndBones": [{
+                "Name": "Ibuprofen",
+                "Description": "For light to moderately severe pain Anti-inflammatory and analgesic For children from 6 years and adults",
+                "Price": "1,92 €",
+                "Picture": "images/Ibuprofen-s.png"
+            },
+            {
+                "Name": "Voltaren",
+                "Description": "Pain reliever and anti-inflammatory For local and symptomatic treatment With a cooling effect",
+                "Price": "15,43 €",
+                "Picture": "images/Voltaren-s.png"
+            },
+            {
+                "Name": "Magnesium",
+                "Description": "Treatment of a magnesium deficiency Strengthens muscles and nerves For infants, children and adults",
+                "Price": "15,43 €",
+                "Picture": "images/Magnesium-s.png"
+            },
+            {
+                "Name": "Keltican",
+                "Description": "For painful diseases of the spine Repairing effect on damaged nerve areas For adults",
+                "Price": "15,43 €",
+                "Picture": "images/Keltican-s.png"
+            },
+            {
+                "Name": "Kytta",
+                "Description": "External treatment of pain For acute sprains, bruises and strains For children from 4 years and adults",
+                "Price": "11,60 €",
+                "Picture": "images/Kytta-s.png"
+            },
+            {
+                "Name": "Ibu",
+                "Description": "Helps against pain Inhibits inflammation Lowers fever",
+                "Price": "3,24 €",
+                "Picture": "images/Ibu-s.png"
+            },
+            {
+                "Name": "Doc",
+                "Description": "Helps with bruises, sprains and strains Decongestant, anti-inflammatory and pain reliever Only suitable for short-term, external use,",
+                "Price": "10,79 €",
+                "Picture": "images/Doc-s.png"
+            }
+
+
+        ],
+        "Diabetes": [{
+                "Name": "Contour",
+                "Description": " serve to determine blood sugar levels are aimed primarily at diabetics only need small amounts of blood",
+                "Price": "20,16 €",
+                "Picture": "images/Contour-s.png"
+            },
+            {
+                "Name": "Vitasprint",
+                "Description": "Improvement of the general condition With reduced performance Supports the function of the brain and nerve cells",
+                "Price": "47,00 €",
+                "Picture": "images/Vitasprint-s.png"
+            },
+            {
+                "Name": "Milgamma",
+                "Description": "Zur Behandlung eines Vitamin-B1-Mangels Lindert Empfindungsstörungen in den Füßen Für die langfristige Einnahme geeignet",
+                "Price": "47,00 €",
+                "Picture": "images/Milgamma-s.png"
+            },
+            {
+                "Name": "Alpha",
+                "Description": "Take action against abnormal sensations Treat consequences of diabetic neuropathy Have an antioxidant effect",
+                "Price": "47,00 €",
+                "Picture": "images/Alpha-s.png"
+            },
+            {
+                "Name": "Telcor",
+                "Description": "Used to treat high blood pressure and diabetes Positive effects on the heart, circulation and blood vessels Helps with increased homocysteine ​​levels",
+                "Price": "48,10 €",
+                "Picture": "images/Vitasprint-s.png"
+            },
+            {
+                "Name": "Vitamin-B-Komplex",
+                "Description": "Prevention of B vitamin deficiency Ensures normal mental performance Supply of nutrients and oxygen",
+                "Price": "48,10 €",
+                "Picture": "images/Vitamin-B-Komplex-s.png"
+            }
+        ],
+        "Babys": [{
+                "Name": "Nasenspray-b",
+                "Description": "Nasenspray zur Abschwellung der Nasenschleimhaut Bei allergischem Schnupfen hilfreich Verbessert die Atmung",
+                "Price": "0,39 €",
+                "Picture": "images/Nasenspray-b-s.png"
+            },
+            {
+                "Name": "Elmex",
+                "Description": "To prevent tooth decay Strengthens the enamel Remineralizes initial caries",
+                "Price": "4,83 €",
+                "Picture": "images/Elmex-s.png"
+            },
+            {
+                "Name": "Prospan",
+                "Description": "Loosens stuck mucus Relieves the urge to cough For infants, children and adults",
+                "Price": "3,82 €",
+                "Picture": "images/Prospan-s.png"
+            },
+            {
+                "Name": "Mucosolvan",
+                "Description": "For respiratory diseases Expectorant effect For children from 2 years",
+                "Price": "3,82 €",
+                "Picture": "images/Mucosolvan-s.png"
+            },
+
+
+
+            {
+                "Name": "Bronchicum",
+                "Description": " With severe bronchitis with stuck mucus With thyme herb and primrose root fluid extracts Herbal cough syrup for children from 6 months",
+                "Price": "9,81 €",
+                "Picture": "images/Bronchicum-s.png"
+            },
+            {
+                "Name": "Ambroxol",
+                "Description": "For respiratory diseases Expectorant effect For children from 2 years",
+                "Price": "1,79 €",
+                "Picture": "images/Ambroxol-s.png"
+            }
+
+
+
+        ],
+
+        "Heart-Circulation": [{
+                "Name": "Cefasel",
+                "Description": "Description: rezeptfreiPZN: 02330807",
+                "Price": "23,63 €",
+                "Picture": "images/Cefasel-s.png"
+            },
+            {
+                "Name": "Omega3",
+                "Description": "Natural fish oil from sustainable wild catch 2,000 mg omega-3 per daily dose (1 tablespoon) Pleasant lemon taste",
+                "Price": "26,34 €",
+                "Picture": "images/Omega3-s.png"
+            },
+
+            {
+                "Name": "Crataegutt",
+                "Description": "to support the heart and circulation purely herbal recipe Active ingredient: hawthorn",
+                "Price": "45,40 €",
+                "Picture": "images/Crataegutt-s.png"
+            },
+            {
+                "Name": "Antistax",
+                "Description": "For the treatment of venous diseases For pain and heaviness in the legs Herbal medicine made from grapevine leaves",
+                "Price": "26,34 €",
+                "Picture": "images/Antistax-s.png"
+            },
+            {
+                "Name": "Tromcardin",
+                "Description": "Relieves cardiac arrhythmias With circulatory disease Provides a balance in the electrolyte balance",
+                "Price": "15,52 €",
+                "Picture": "images/Tromcardin-s.png"
+            },
+            {
+                "Name": "Antiveno",
+                "Description": "purely herbal medicine for heavy legs & other leg vein disorders Active ingredient: dry extract from grapevine leaves",
+                "Price": "10,90 €",
+                "Picture": "images/Antiveno-s.png"
+            }
+
+        ],
+        "Stomac-Magen": [{
+                "Name": "Iberogast",
+                "Description": "Relieves pain and cramps in the stomach For acute and chronic diseases Herbal medicine",
+                "Price": "12,47 €",
+                "Picture": "images/Iberogast-s.png"
+            },
+            {
+                "Name": "Omeprazol",
+                "Description": "For the prevention and treatment of gastric ulcers Helps with irritation and inflammation Relieves acid regurgitation and heartburn",
+                "Price": "2,07 €",
+                "Picture": "images/Omeprazol-s.png"
+            },
+            {
+                "Name": "Buscopan",
+                "Description": "Used to treat stomach cramps Has an analgesic and antispasmodic effect For young people from 12 years and adults",
+                "Price": "6,32 €",
+                "Picture": "images/Buscopan-s.png"
+            },
+
+            {
+                "Name": "Talcid",
+                "Description": "Helps with heartburn Relieves acid regurgitation and stomach pain Prevents esophagitis",
+                "Price": "15,70 €",
+                "Picture": "images/Talcid-s.png"
+            },
+            {
+                "Name": "Dulcolax",
+                "Description": "contains 100 tablets helps with constipation, eases bowel movements suitable for children from 10 years and adults",
+                "Price": "10,33 €€",
+                "Picture": "images/Talcid-s.png"
+            }
+
+        ],
+
+        "Pain-Schmarzen": [{
+                "Name": "Ibubeta",
+                "Description": "Medicines with ibuprofen (active ingredient) relieves mild to moderate pain has anti-inflammatory & fever-lowering effects",
+                "Price": "1,19 €",
+                "Picture": "images/Ibubeta-s.png"
+            },
+            {
+                "Name": "Ibubeta",
+                "Description": "Medicines with ibuprofen (active ingredient) relieves mild to moderate pain has anti-inflammatory & fever-lowering effects",
+                "Price": "1,19 €",
+                "Picture": "images/Ibubeta-s.png"
+            },
+
+            {
+                "Name": "Thomapyrin",
+                "Description": "Act quickly and strongly against headaches Help with neck and shoulder tension Are well tolerated",
+                "Price": "10,27 €",
+                "Picture": "images/Thomapyrin-s.png"
+            },
+
+            {
+                "Name": "Aspirin",
+                "Description": "Lowering fever and relieving pain For mild to moderately severe complaints Helps with cold symptoms",
+                "Price": "10,27 €",
+                "Picture": "images/Aspirin-s.png"
+            },
+
+            {
+                "Name": "Paracetamol",
+                "Description": "Fiebersenkend und schmerzstillend Bei leichten bis mäßigen Beschwerden Für Kinder ab 4 Jahren, Jugendliche und Erwachsene",
+                "Price": "0,87 € €",
+                "Picture": "images/Paracetamol-s.png"
+            },
+            {
+                "Name": "Ibu",
+                "Description": "rezeptfreiPZN: 01224115",
+                "Price": "4,29 €",
+                "Picture": "images/Ibu-s.png"
+            }
+
+        ],
+        "First-Aid": [{
+                "Name": "Hansaplast",
+                "Description": "rezeptfreiPZN: 03754597878",
+                "Price": "2,30 €",
+                "Picture": "images/Hansaplast-s.png"
+            },
+            {
+                "Name": "DermaPlast",
+                "Description": "rezeptfreiPZN: 03797878",
+                "Price": "9,17 €",
+                "Picture": "images/DermaPlast-s.png"
+            },
+            {
+                "Name": "HansaplastFixi",
+                "Description": "rezeptfreiPZN: 04778096",
+                "Price": "2,67 €",
+                "Picture": "images/HansaplastFixi-s.png"
+            },
+            {
+                "Name": "Handdesinfektion",
+                "Description": "Ready-to-use alcoholic hand disinfection Very good skin tolerance Suitable for long-term use",
+                "Price": "4,49 €",
+                "Picture": "images/Handdesinfektion-s.png"
+            },
+            {
+                "Name": "HandSpray",
+                "Description": "Hilf bei der Wundbehandlung und bei Pilzerkrankungen Zur antiseptischen Behandlung von Schleimhäuten Für die wiederholte, zeitlich begrenzte Anwendung",
+                "Price": "4,29 €",
+                "Picture": "images/HandSpray-s.png"
+            }
+
+        ]
+
+
+
+
+    }
+
+
+}

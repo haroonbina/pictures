@@ -1,0 +1,333 @@
+Kategorien:
+*****************
+
+
+Allergie:
+******************
+Name: Bepanthen,
+Description: Ointment to support wound healing
+For superficial skin damage to the eyes and nose
+For infants, children and adults,
+Price: 1,27 €
+
+
+Name: Fenistil,
+Description: Cools and soothes insect bites and sunburn
+Has an anti-allergic, local anesthetic and relieves itching
+Suitable for use on the skin,
+Price: 4,15 €
+
+
+Name: Cetirizin
+Description: Fight symptoms of allergies
+Relieve discomfort in the nose and eyes
+Suitable for children from 6 years,
+Price: 5,34 €
+
+
+Name: Reactine
+Description: For the treatment of allergic rhinitis
+For nasal congestion and acute hay fever
+Against itchy, watery and swollen eyes,
+Price: 3,27 €
+
+
+Name: Euphrasia,
+Description: For itching and burning eyes
+anti-inflammatory, antiseptic and analgesic
+Strengthens the natural self-healing powers,
+Price: 11,78 €
+
+============ Muscles & Bones =================
+Name: Ibuprofen,
+Description: For light to moderately severe pain
+Anti-inflammatory and analgesic
+For children from 6 years and adults,
+Price: 1,92 €
+
+
+Name: Voltaren,
+Description: Pain reliever and anti-inflammatory
+For local and symptomatic treatment
+With a cooling effect,
+Price: 15,43 €
+
+
+Name: Magnesium,
+Description: Treatment of a magnesium deficiency
+Strengthens muscles and nerves
+For infants, children and adults,
+Price: 15,43 €
+
+Name: Keltican,
+Description: For painful diseases of the spine
+Repairing effect on damaged nerve areas
+For adults,
+Price: 15,43 €
+
+
+Name: Kytta
+Description: External treatment of pain
+For acute sprains, bruises and strains
+For children from 4 years and adults,
+Price: 11,60 €
+
+
+Name: Ibu,
+Description: Helps against pain
+Inhibits inflammation
+Lowers fever,
+Price: 3,24 €
+
+
+Name: Doc,
+Description: Helps with bruises, sprains and strains
+Decongestant, anti-inflammatory and pain reliever
+Only suitable for short-term, external use,
+Price: 10,79 €
+
+
+================= Diabetes =================
+
+Name: Contour,
+Description: serve to determine blood sugar levels
+are aimed primarily at diabetics
+only need small amounts of blood,
+Price: 20,16 €
+
+
+Name: Vitasprint,
+Description: Improvement of the general condition
+With reduced performance
+Supports the function of the brain and nerve cells,
+Price: 47,00 €
+
+
+Name: Milgamma,
+Description: Zur Behandlung eines Vitamin-B1-Mangels
+Lindert Empfindungsstörungen in den Füßen
+Für die langfristige Einnahme geeignet,
+Price: 47,00 €
+
+
+Name: Alpha,
+Description: Take action against abnormal sensations
+Treat consequences of diabetic neuropathy
+Have an antioxidant effect,
+Price: 47,00 €
+
+
+Name: Telcor,
+Description: Used to treat high blood pressure and diabetes
+Positive effects on the heart, circulation and blood vessels
+Helps with increased homocysteine ​​levels,
+Price: 48,10 €
+
+
+Name: Vitamin-B-Komplex
+Description: Prevention of B vitamin deficiency
+Ensures normal mental performance
+Supply of nutrients and oxygen,
+Price: 48,10 €
+
+================== Babys ===============
+Name: Nasenspray-b,
+Description: Nasenspray zur Abschwellung der Nasenschleimhaut
+Bei allergischem Schnupfen hilfreich
+Verbessert die Atmung,
+Price: 0,39 €
+
+
+Name: Elmex,
+Description: To prevent tooth decay
+Strengthens the enamel
+Remineralizes initial caries,
+Price: 4,83 €
+
+
+Name: Prospan,
+Description: Loosens stuck mucus
+Relieves the urge to cough
+For infants, children and adults,
+Price: 3,82 €
+
+
+Name: Mucosolvan,
+Description: For respiratory diseases
+Expectorant effect
+For children from 2 years,
+Price: 3,82 €
+
+
+Name: Bronchicum,
+Description: With severe bronchitis with stuck mucus
+With thyme herb and primrose root fluid extracts
+Herbal cough syrup for children from 6 months,
+Price: 9,81 €
+
+
+Name: Ambroxol,
+Description: For respiratory diseases
+Expectorant effect
+For children from 2 years,
+Price: 1,79 €
+
+========================== Heart-Circulation =============
+
+Name: Tromcardin,
+Description: Relieves cardiac arrhythmias
+With circulatory diseases
+Provides a balance in the electrolyte balance,
+Price: 15,52 €
+
+
+Name: Crataegutt,
+Description: to support the heart and circulation
+purely herbal recipe
+Active ingredient: hawthorn,
+Price: 45,40 €
+
+
+Name: Antistax,
+Description: For the treatment of venous diseases
+For pain and heaviness in the legs
+Herbal medicine made from grapevine leaves,
+Price: 26,34 €
+
+
+Name: Omega3,
+Description: Natural fish oil from sustainable wild catch
+2,000 mg omega-3 per daily dose (1 tablespoon)
+Pleasant lemon taste,
+Price: 26,34 €
+
+
+Name: Cefasel,
+Description: rezeptfreiPZN: 02330807,
+Price: 23,63 €
+
+
+Name: Antiveno,
+Description: purely herbal medicine
+for heavy legs & other leg vein disorders
+Active ingredient: dry extract from grapevine leaves,
+Price: 10,90 €
+
+
+=================== Stomac-Magen============
+
+
+Name: Iberogast,
+Description: Relieves pain and cramps in the stomach
+For acute and chronic diseases
+Herbal medicine,
+Price: 12,47 €
+
+
+Name: Omeprazol,
+Description: For the prevention and treatment of gastric ulcers
+Helps with irritation and inflammation
+Relieves acid regurgitation and heartburn,
+Price: 2,07 €
+
+
+Name: Buscopan,
+Description: Used to treat stomach cramps
+Has an analgesic and antispasmodic effect
+For young people from 12 years and adults,
+Price: 6,32 €
+
+
+Name: Talcid,
+Description: Helps with heartburn
+Relieves acid regurgitation and stomach pain
+Prevents esophagitis,
+Price: 15,70 €
+
+
+Name: Dulcolax,
+Description: contains 100 tablets
+helps with constipation, eases bowel movements
+suitable for children from 10 years and adults,
+Price: 10,33 €
+
+=================== Pain-Schmarzen============
+
+Name: Paracetamol,
+Description: Fiebersenkend und schmerzstillend
+Bei leichten bis mäßigen Beschwerden
+Für Kinder ab 4 Jahren, Jugendliche und Erwachsene,
+Price: 0,87 €
+
+
+Name: Aspirin,
+Description: Lowering fever and relieving pain
+For mild to moderately severe complaints
+Helps with cold symptoms,
+Price: 10,27 €
+
+
+Name: Thomapyrin,
+Description: Act quickly and strongly against headaches
+Help with neck and shoulder tension
+Are well tolerated,
+Price: 10,27 €
+
+
+Name: Ibubeta,
+Description: Medicines with ibuprofen (active ingredient)
+relieves mild to moderate pain
+has anti-inflammatory & fever-lowering effects,
+Price: 1,19 €
+
+Name: Ibubeta,
+Description: Medicines with ibuprofen (active ingredient)
+relieves mild to moderate pain
+has anti-inflammatory & fever-lowering effects,
+Price: 1,19 €
+
+
+
+Name: Ibu,
+Description: rezeptfreiPZN: 01224115,
+Price: 4,29 €
+
+=================== First-Aid ============
+
+Name: Hansaplast,
+Description: rezeptfreiPZN: 11663488,
+Price: 2,30 €
+
+
+Name: DermaPlast,
+Description: rezeptfreiPZN: 03797878,
+Price: 9,17 €
+
+
+Name: HansaplastFixi,
+Description: rezeptfreiPZN: 04778096,
+Price: 2,67 €
+
+
+Name: Handdesinfektion,
+Description: Ready-to-use alcoholic hand disinfection
+Very good skin tolerance
+Suitable for long-term use,
+Price: 4,49 €
+
+
+Name: HandSpray,
+Description: Hilf bei der Wundbehandlung und bei Pilzerkrankungen
+Zur antiseptischen Behandlung von Schleimhäuten
+Für die wiederholte, zeitlich begrenzte Anwendung,
+Price: 4,29 €
+
+
+
+
+
+
+
+
+
+
